@@ -8,5 +8,5 @@
 - 🔭 I’m interested in building Scalable backend systems and getting back into Frontend development.
 - 🌱 I'm currently learning core Machine Learning concepts and experimenting with it.
 - Recent noteworthy project(s):
-  - `r/place` replica that can support 100k concurrent users! <a href="https://github.com/HarshGajabi/r-place_clone">Link</a>
+  - Reddit's `r/place` replica that can support 100k concurrent users! <a href="https://github.com/HarshGajabi/r-place_clone">Link</a>
 
